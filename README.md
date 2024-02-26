@@ -1,5 +1,5 @@
 # 💫 About Me:
-👯 I’m looking to collaborate on front-end projects<br>🤝 I’m looking for help with back-end development<br>🌱 I’m currently learning React<br>⚡ Fun fact: I lack female interaction in my life
+👯 I’m looking to collaborate on front-end projects<br>🤝 I’m looking for help with back-end development<br>⚡ Fun fact: I lack female interaction in my life
 
 
 ## 🌐 Socials:
